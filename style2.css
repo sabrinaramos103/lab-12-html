@@ -1,0 +1,20 @@
+h1{
+	border: dashed green;
+	color: red;
+	font-size: 48px;
+	text-align: center;
+}
+p{
+	color: green;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: underline;
+}
+table {
+	border: dashed red;
+}
+
+table td{
+
+	font-size: 18px;
+}
